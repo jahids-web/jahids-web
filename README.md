@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahid Uddin</h1>
 <h3 align="center">ASP .NET Developer | Responsive Web Designer</h3>
-<img align="right" width="450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" width="500" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahids-web&label=Profile%20views&color=0e75b6&style=flat" alt="jahids-web" /> </p>
 
