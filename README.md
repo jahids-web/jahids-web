@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahids-web&label=Profile%20views&color=0e75b6&style=flat" alt="jahids-web" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET,C#**
+- 🌱 I’m currently learning **ASP.NET, C#**
 
 - 💬 Ask me about **ASP.NET, C#, Bootstrap**
 
@@ -29,4 +29,4 @@
 <h3 align="left">Other:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </p>
 
-<p>&nbsp;<img align="center" color="000" src="https://github-readme-stats.vercel.app/api?username=jahids-web&show_icons=true&locale=en" alt="jahids-web" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahids-web&show_icons=true&locale=en" alt="jahids-web" /></p>
