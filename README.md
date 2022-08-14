@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahids-web&label=Profile%20views&color=0e75b6&style=flat" alt="jahids-web" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET, C#**
+- 🌱 I’m currently learning **ASP.NET , C#**
 
 - 💬 Ask me about **ASP.NET, C#, Bootstrap**
 
