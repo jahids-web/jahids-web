@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ASP.NET , C#**
 
-- 💬 Ask me about **ASP.NET, C#, Bootstrap**
+- 💬 Ask me about **ASP.NET , C#, Bootstrap**
 
 - 📫 How to reach me **jahiduddin93@gmail.com**
 
